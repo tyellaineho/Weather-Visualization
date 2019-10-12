@@ -1,0 +1,22 @@
+
+.navbar-brand{
+    padding: 10px;
+    position: relative;
+    background-color: rgb(236, 192, 150);
+}
+
+.navbar-expand-lg{
+    padding: 20px;
+    position: relative;
+    background-color: rgb(211, 198, 165);
+} 
+
+body {
+    background: palevioletred;
+}
+
+.container{
+    padding-top: 60px;
+    padding-bottom: 60px;
+    background: white;
+}
